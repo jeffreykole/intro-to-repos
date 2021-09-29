@@ -65,4 +65,10 @@ df.count()
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC 
+# MAGIC Another Markdown 
+
+# COMMAND ----------
+
 
